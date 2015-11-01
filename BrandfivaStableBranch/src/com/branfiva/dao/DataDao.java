@@ -4,6 +4,7 @@ import java.util.List;
 
 import com.branfiva.model.Employee;
 
+
 public interface DataDao {
 	public int insertRow(Employee employee);
 
